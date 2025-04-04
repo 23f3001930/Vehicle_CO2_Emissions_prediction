@@ -1,0 +1,8 @@
+  # or pytorch, or any libraries you're using
+streamlit
+matplotlib
+seaborn
+pandas
+numpy
+scipy
+scikit-learn
